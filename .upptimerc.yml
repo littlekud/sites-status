@@ -1,23 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: taoky # Your GitHub username
+repo: sites-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: USTC
+    url: https://www.ustc.edu.cn
+  - name: Homepage
+    url: https://taoky.moe
+  - name: Static files of taoky.moe
+    url: https://static.taoky.moe
+  - name: USTCLUG
+    url: https://lug.ustc.edu.cn
+  - name: USTC Mirrors
+    url: https://mirrors.ustc.edu.cn
+  - name: LUG GitLab
+    url: https://git.lug.ustc.edu.cn
+  - name: LUG FTP
+    url: https://ftp.lug.ustc.edu.cn
+  - name: proxy.ustclug.org
+    url: https://openwrt.proxy.ustclug.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.taoky.moe
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
