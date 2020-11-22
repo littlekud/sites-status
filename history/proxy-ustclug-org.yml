@@ -1,7 +1,7 @@
-- url: https://openwrt.proxy.ustclug.org
-- status: up
-- code: 200
-- responseTime: 1025
-- lastUpdated: 2020-11-22T04:14:00.152Z
-- startTime: 2020-11-21T16:26:38.566Z
-- generator: Upptime <https://github.com/upptime/upptime>
+url: https://openwrt.proxy.ustclug.org  
+status: up
+code: 200
+responseTime: 896
+lastUpdated: 2020-11-22T23:08:25.081Z
+startTime: Sat Nov 21 2020 16:26:38 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
