@@ -2,6 +2,9 @@
 owner: littlekud # Your GitHub username
 repo: sites-status # Your Github repository name
 
+assignees:
+  - taoky
+
 # Add your sites here
 sites:
   - name: USTC
@@ -27,14 +30,12 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Is the sites down today?
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: Hello, world!
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
