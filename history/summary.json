@@ -4,63 +4,63 @@
     "url": "https://www.ustc.edu.cn",
     "slug": "ustc",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1714
+    "uptime": "100.00%",
+    "time": 1689
   },
   {
     "name": "Homepage",
     "url": "https://taoky.moe",
     "slug": "homepage",
     "status": "up",
-    "uptime": "100.00",
-    "time": 394
+    "uptime": "100.00%",
+    "time": 434
   },
   {
     "name": "Static files of taoky.moe",
     "url": "https://static.taoky.moe",
     "slug": "static-files-of-taoky-moe",
     "status": "up",
-    "uptime": "100.00",
-    "time": 444
+    "uptime": "100.00%",
+    "time": 421
   },
   {
     "name": "USTCLUG",
     "url": "https://lug.ustc.edu.cn",
     "slug": "ustclug",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2167
+    "uptime": "100.00%",
+    "time": 2111
   },
   {
     "name": "USTC Mirrors",
     "url": "https://mirrors.ustc.edu.cn",
     "slug": "ustc-mirrors",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2553
+    "uptime": "100.00%",
+    "time": 2589
   },
   {
     "name": "LUG GitLab",
     "url": "https://git.lug.ustc.edu.cn",
     "slug": "lug-git-lab",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2708
+    "uptime": "100.00%",
+    "time": 2705
   },
   {
     "name": "LUG FTP",
     "url": "https://ftp.lug.ustc.edu.cn",
     "slug": "lug-ftp",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2459
+    "uptime": "100.00%",
+    "time": 2440
   },
   {
     "name": "proxy.ustclug.org",
     "url": "https://openwrt.proxy.ustclug.org",
     "slug": "proxy-ustclug-org",
     "status": "up",
-    "uptime": "100.00",
-    "time": 912
+    "uptime": "100.00%",
+    "time": 908
   }
 ]
