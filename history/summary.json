@@ -5,7 +5,7 @@
     "slug": "ustc",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1630
+    "time": 1618
   },
   {
     "name": "Homepage",
@@ -13,7 +13,7 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 455
+    "time": 473
   },
   {
     "name": "Static files of taoky.moe",
@@ -21,23 +21,23 @@
     "slug": "static-files-of-taoky-moe",
     "status": "up",
     "uptime": "100.00%",
-    "time": 423
+    "time": 429
   },
   {
     "name": "USTCLUG",
     "url": "https://lug.ustc.edu.cn",
     "slug": "ustclug",
     "status": "up",
-    "uptime": "99.42%",
-    "time": 2262
+    "uptime": "99.60%",
+    "time": 2211
   },
   {
     "name": "USTC Mirrors",
     "url": "https://mirrors.ustc.edu.cn",
     "slug": "ustc-mirrors",
     "status": "up",
-    "uptime": "99.42%",
-    "time": 2008
+    "uptime": "99.60%",
+    "time": 2017
   },
   {
     "name": "LUG GitLab",
@@ -45,7 +45,7 @@
     "slug": "lug-git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2709
+    "time": 2636
   },
   {
     "name": "LUG FTP",
@@ -53,7 +53,7 @@
     "slug": "lug-ftp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2329
+    "time": 2276
   },
   {
     "name": "proxy.ustclug.org",
@@ -61,6 +61,6 @@
     "slug": "proxy-ustclug-org",
     "status": "up",
     "uptime": "100.00%",
-    "time": 893
+    "time": 1050
   }
 ]
