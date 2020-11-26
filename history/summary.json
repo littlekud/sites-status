@@ -35,9 +35,9 @@
     "name": "USTC Mirrors",
     "url": "https://mirrors.ustc.edu.cn",
     "slug": "ustc-mirrors",
-    "status": "down",
-    "uptime": "99.71%",
-    "time": 1843
+    "status": "up",
+    "uptime": "99.72%",
+    "time": 1896
   },
   {
     "name": "LUG GitLab",
