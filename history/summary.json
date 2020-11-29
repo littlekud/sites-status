@@ -43,9 +43,9 @@
     "name": "LUG GitLab",
     "url": "https://git.lug.ustc.edu.cn",
     "slug": "lug-git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 2389
+    "status": "up",
+    "uptime": "99.45%",
+    "time": 2611
   },
   {
     "name": "LUG FTP",
