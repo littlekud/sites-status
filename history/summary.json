@@ -51,9 +51,9 @@
     "name": "LUG FTP",
     "url": "https://ftp.lug.ustc.edu.cn",
     "slug": "lug-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 2099
+    "time": 1924
   },
   {
     "name": "proxy.ustclug.org",
