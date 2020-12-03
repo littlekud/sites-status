@@ -5,7 +5,15 @@
     "slug": "ustc",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1622
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1847,
+    "timeDay": 2190,
+    "timeWeek": 1943,
+    "timeMonth": 1847,
+    "timeYear": 1847
   },
   {
     "name": "Homepage",
@@ -13,7 +21,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 448
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 456,
+    "timeDay": 556,
+    "timeWeek": 438,
+    "timeMonth": 456,
+    "timeYear": 456
   },
   {
     "name": "Static files of taoky.moe",
@@ -21,7 +37,15 @@
     "slug": "static-files-of-taoky-moe",
     "status": "up",
     "uptime": "100.00%",
-    "time": 427
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 419,
+    "timeDay": 304,
+    "timeWeek": 421,
+    "timeMonth": 419,
+    "timeYear": 419
   },
   {
     "name": "USTCLUG",
@@ -29,7 +53,15 @@
     "slug": "ustclug",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2060
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2428,
+    "timeDay": 2499,
+    "timeWeek": 2146,
+    "timeMonth": 2428,
+    "timeYear": 2428
   },
   {
     "name": "USTC Mirrors",
@@ -37,15 +69,31 @@
     "slug": "ustc-mirrors",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1983
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2333,
+    "timeDay": 2329,
+    "timeWeek": 2255,
+    "timeMonth": 2333,
+    "timeYear": 2333
   },
   {
     "name": "LUG GitLab",
     "url": "https://git.lug.ustc.edu.cn",
     "slug": "lug-git-lab",
     "status": "up",
-    "uptime": "99.56%",
-    "time": 2719
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 2897,
+    "timeDay": 2851,
+    "timeWeek": 3152,
+    "timeMonth": 2897,
+    "timeYear": 2897
   },
   {
     "name": "LUG FTP",
@@ -53,7 +101,15 @@
     "slug": "lug-ftp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2284
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2445,
+    "timeDay": 2560,
+    "timeWeek": 2645,
+    "timeMonth": 2445,
+    "timeYear": 2445
   },
   {
     "name": "proxy.ustclug.org",
@@ -61,6 +117,14 @@
     "slug": "proxy-ustclug-org",
     "status": "up",
     "uptime": "100.00%",
-    "time": 969
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 967,
+    "timeDay": 937,
+    "timeWeek": 907,
+    "timeMonth": 967,
+    "timeYear": 967
   }
 ]
