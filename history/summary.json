@@ -81,9 +81,9 @@
     "url": "https://mirrors.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.ustc.edu.cn",
     "slug": "ustc-mirrors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
@@ -93,6 +93,7 @@
     "timeMonth": 2658,
     "timeYear": 2551,
     "dailyMinutesDown": {
+      "2021-01-04": 0,
       "2020-12-15": 30,
       "2020-12-11": 22
     }
@@ -103,11 +104,11 @@
     "icon": "https://favicons.githubusercontent.com/git.lug.ustc.edu.cn",
     "slug": "lug-git-lab",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "97.32%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 2761,
     "timeDay": 2483,
     "timeWeek": 2615,
