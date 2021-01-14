@@ -63,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/lug.ustc.edu.cn",
     "slug": "ustclug",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 2303,
     "timeDay": 2252,
     "timeWeek": 2069,
@@ -148,9 +148,9 @@
     "url": "https://openwrt.proxy.ustclug.org",
     "icon": "https://favicons.githubusercontent.com/openwrt.proxy.ustclug.org",
     "slug": "proxy-ustclug-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -160,6 +160,7 @@
     "timeMonth": 1027,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2021-01-14": 0,
       "2020-12-21": 18
     }
   },
