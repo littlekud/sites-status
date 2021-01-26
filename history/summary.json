@@ -135,9 +135,9 @@
     "url": "https://ftp.lug.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/ftp.lug.ustc.edu.cn",
     "slug": "lug-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -146,7 +146,9 @@
     "timeWeek": 2321,
     "timeMonth": 2348,
     "timeYear": 2312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-26": 0
+    }
   },
   {
     "name": "proxy.ustclug.org",
@@ -154,11 +156,11 @@
     "icon": "https://favicons.githubusercontent.com/openwrt.proxy.ustclug.org",
     "slug": "proxy-ustclug-org",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 982,
     "timeDay": 946,
     "timeWeek": 925,
