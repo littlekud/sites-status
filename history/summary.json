@@ -138,19 +138,19 @@
     "url": "https://ftp.lug.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/ftp.lug.ustc.edu.cn",
     "slug": "lug-ftp",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2347,
     "timeDay": 2525,
     "timeWeek": 2220,
     "timeMonth": 2442,
     "timeYear": 2347,
     "dailyMinutesDown": {
-      "2021-02-05": 7
+      "2021-02-05": 0
     }
   },
   {
