@@ -12,7 +12,7 @@
     "uptimeYear": "99.63%",
     "time": 2404,
     "timeDay": 2155,
-    "timeWeek": 2618,
+    "timeWeek": 2704,
     "timeMonth": 2769,
     "timeYear": 2404,
     "dailyMinutesDown": {
@@ -163,11 +163,11 @@
     "url": "https://openwrt.proxy.ustclug.org",
     "icon": "https://favicons.githubusercontent.com/openwrt.proxy.ustclug.org",
     "slug": "proxy-ustclug-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 969,
     "timeDay": 964,
@@ -175,6 +175,7 @@
     "timeMonth": 922,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2021-02-14": 0,
       "2021-01-14": 119,
       "2020-12-21": 18
     }
