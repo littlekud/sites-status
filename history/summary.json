@@ -147,11 +147,11 @@
     "icon": "https://favicons.githubusercontent.com/git.lug.ustc.edu.cn",
     "slug": "lug-git-lab",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.01%",
+    "uptimeYear": "97.02%",
     "time": 2909,
     "timeDay": 2933,
     "timeWeek": 3072,
@@ -176,11 +176,11 @@
     "icon": "https://favicons.githubusercontent.com/ftp.lug.ustc.edu.cn",
     "slug": "lug-ftp",
     "status": "up",
-    "uptime": "82.66%",
+    "uptime": "82.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "82.66%",
+    "uptimeYear": "82.68%",
     "time": 2190,
     "timeDay": 2760,
     "timeWeek": 1755,
@@ -249,9 +249,9 @@
     "url": "https://vlab.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/vlab.ustc.edu.cn",
     "slug": "ustc-vlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -260,6 +260,8 @@
     "timeWeek": 1253,
     "timeMonth": 1228,
     "timeYear": 1198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-17": 0
+    }
   }
 ]
