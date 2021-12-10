@@ -349,9 +349,9 @@
     "url": "https://openwrt.proxy.ustclug.org",
     "icon": "https://favicons.githubusercontent.com/openwrt.proxy.ustclug.org",
     "slug": "proxy-ustclug-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -361,6 +361,7 @@
     "timeMonth": 1009,
     "timeYear": 1028,
     "dailyMinutesDown": {
+      "2021-12-10": 0,
       "2021-08-15": 53,
       "2021-01-14": 119,
       "2020-12-21": 18
