@@ -4,9 +4,9 @@
     "url": "https://www.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/www.ustc.edu.cn",
     "slug": "ustc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "92.58%",
+    "uptimeDay": "92.56%",
     "uptimeWeek": "95.52%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.47%",
@@ -84,7 +84,7 @@
       "2021-05-01": 61,
       "2021-04-30": 28,
       "2021-04-29": 66,
-      "2021-04-26": 45
+      "2021-04-26": 27
     }
   },
   {
