@@ -4,16 +4,16 @@
     "url": "https://www.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/www.ustc.edu.cn",
     "slug": "ustc",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "98.51%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "99.49%",
-    "time": 2235,
+    "time": 2230,
     "timeDay": 1732,
-    "timeWeek": 1600,
-    "timeMonth": 1619,
+    "timeWeek": 1595,
+    "timeMonth": 1621,
     "timeYear": 2172,
     "dailyMinutesDown": {
       "2022-04-28": 39,
@@ -68,8 +68,7 @@
       "2021-10-06": 27,
       "2021-09-24": 16,
       "2021-09-23": 19,
-      "2021-09-13": 51,
-      "2021-09-07": 15
+      "2021-09-13": 51
     }
   },
   {
