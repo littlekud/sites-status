@@ -97,19 +97,19 @@
     "url": "https://static.taoky.moe",
     "icon": "https://favicons.githubusercontent.com/static.taoky.moe",
     "slug": "static-files-of-taoky-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 425,
-    "timeDay": 239,
-    "timeWeek": 340,
-    "timeMonth": 396,
-    "timeYear": 411,
+    "timeDay": 252,
+    "timeWeek": 333,
+    "timeMonth": 392,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2022-06-04": 0
+      "2022-06-04": 15
     }
   },
   {
