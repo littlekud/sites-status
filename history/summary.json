@@ -6,17 +6,16 @@
     "slug": "ustc",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.48%",
     "time": 2147,
     "timeDay": 2037,
     "timeWeek": 2197,
     "timeMonth": 1923,
     "timeYear": 2154,
     "dailyMinutesDown": {
-      "2022-06-16": 11,
       "2022-06-12": 19,
       "2022-06-07": 17,
       "2022-06-06": 34,
@@ -71,7 +70,7 @@
       "2022-03-16": 38,
       "2022-03-15": 83,
       "2022-03-14": 68,
-      "2022-03-13": 44
+      "2022-03-13": 67
     }
   },
   {
