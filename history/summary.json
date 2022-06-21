@@ -12,7 +12,7 @@
     "uptimeYear": "99.48%",
     "time": 2165,
     "timeDay": 2283,
-    "timeWeek": 1908,
+    "timeWeek": 1924,
     "timeMonth": 1938,
     "timeYear": 2151,
     "dailyMinutesDown": {
@@ -81,9 +81,9 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 440,
     "timeDay": 373,
@@ -91,7 +91,7 @@
     "timeMonth": 699,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2022-06-21": 44,
+      "2022-06-21": 33,
       "2022-06-16": 19
     }
   },
@@ -102,9 +102,9 @@
     "slug": "static-files-of-taoky-moe",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 424,
     "timeDay": 306,
@@ -112,7 +112,7 @@
     "timeMonth": 410,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-06-21": 44,
+      "2022-06-21": 33,
       "2022-06-16": 19,
       "2022-06-04": 15
     }
@@ -163,9 +163,9 @@
     "url": "https://mirrors.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.ustc.edu.cn",
     "slug": "ustc-mirrors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.61%",
@@ -175,6 +175,7 @@
     "timeMonth": 2281,
     "timeYear": 2504,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-05": 17,
       "2022-05-27": 30,
       "2022-05-20": 46,
@@ -234,9 +235,9 @@
     "slug": "lug-git-lab",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 3179,
     "timeDay": 3522,
@@ -244,7 +245,6 @@
     "timeMonth": 2864,
     "timeYear": 3208,
     "dailyMinutesDown": {
-      "2022-06-21": 10,
       "2022-05-18": 66,
       "2022-05-08": 15,
       "2022-04-19": 29,
