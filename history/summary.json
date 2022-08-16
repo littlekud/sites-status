@@ -221,8 +221,7 @@
       "2021-09-09": 32,
       "2021-08-28": 17,
       "2021-08-22": 38,
-      "2021-08-21": 20,
-      "2021-08-16": 27
+      "2021-08-21": 20
     }
   },
   {
@@ -266,9 +265,9 @@
     "url": "https://ftp.lug.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/ftp.lug.ustc.edu.cn",
     "slug": "lug-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "95.03%",
-    "uptimeDay": "56.20%",
+    "uptimeDay": "56.16%",
     "uptimeWeek": "93.74%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.81%",
@@ -278,6 +277,7 @@
     "timeMonth": 1891,
     "timeYear": 1873,
     "dailyMinutesDown": {
+      "2022-08-16": 1,
       "2022-08-15": 631,
       "2022-07-11": 23,
       "2022-07-10": 25,
