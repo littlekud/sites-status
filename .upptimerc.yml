@@ -21,6 +21,7 @@ sites:
     url: https://git.lug.ustc.edu.cn
   - name: LUG FTP
     url: https://ftp.lug.ustc.edu.cn
+    maxResponseTime: 60000
   - name: proxy.ustclug.org
     url: https://openwrt.proxy.ustclug.org
   - name: USTC Vlab
