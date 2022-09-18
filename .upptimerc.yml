@@ -26,6 +26,8 @@ sites:
     url: https://openwrt.proxy.ustclug.org
   - name: USTC Vlab
     url: https://vlab.ustc.edu.cn
+  - name: iCourse
+    url: https://icourse.club
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
