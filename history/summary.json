@@ -4,18 +4,19 @@
     "url": "https://www.ustc.edu.cn",
     "icon": "https://favicons.githubusercontent.com/www.ustc.edu.cn",
     "slug": "ustc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 1991,
     "timeDay": 1840,
-    "timeWeek": 1874,
+    "timeWeek": 1815,
     "timeMonth": 2051,
     "timeYear": 1992,
     "dailyMinutesDown": {
+      "2022-09-25": 0,
       "2022-09-23": 43,
       "2022-09-19": 24,
       "2022-09-11": 16,
@@ -83,8 +84,7 @@
       "2022-04-05": 41,
       "2022-04-04": 96,
       "2022-04-03": 172,
-      "2022-04-02": 54,
-      "2022-04-01": 25
+      "2022-04-02": 54
     }
   },
   {
@@ -100,7 +100,7 @@
     "uptimeYear": "99.97%",
     "time": 430,
     "timeDay": 555,
-    "timeWeek": 524,
+    "timeWeek": 478,
     "timeMonth": 484,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -124,7 +124,7 @@
     "uptimeYear": "99.97%",
     "time": 416,
     "timeDay": 471,
-    "timeWeek": 506,
+    "timeWeek": 505,
     "timeMonth": 466,
     "timeYear": 407,
     "dailyMinutesDown": {
@@ -143,12 +143,12 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.76%",
     "time": 2671,
     "timeDay": 1803,
-    "timeWeek": 2462,
+    "timeWeek": 2394,
     "timeMonth": 2383,
     "timeYear": 2691,
     "dailyMinutesDown": {
@@ -188,9 +188,9 @@
     "uptimeYear": "99.85%",
     "time": 2466,
     "timeDay": 2708,
-    "timeWeek": 2474,
+    "timeWeek": 2323,
     "timeMonth": 2682,
-    "timeYear": 2466,
+    "timeYear": 2463,
     "dailyMinutesDown": {
       "2022-09-21": 16,
       "2022-08-23": 17,
@@ -234,7 +234,7 @@
     "uptimeYear": "99.77%",
     "time": 3178,
     "timeDay": 3311,
-    "timeWeek": 3204,
+    "timeWeek": 3216,
     "timeMonth": 3328,
     "timeYear": 3120,
     "dailyMinutesDown": {
@@ -267,7 +267,7 @@
     "uptimeYear": "99.98%",
     "time": 933,
     "timeDay": 789,
-    "timeWeek": 772,
+    "timeWeek": 781,
     "timeMonth": 760,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -289,7 +289,7 @@
     "uptimeYear": "99.78%",
     "time": 1278,
     "timeDay": 996,
-    "timeWeek": 1265,
+    "timeWeek": 1201,
     "timeMonth": 1371,
     "timeYear": 1302,
     "dailyMinutesDown": {
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 842,
     "timeDay": 788,
-    "timeWeek": 842,
+    "timeWeek": 847,
     "timeMonth": 842,
     "timeYear": 842,
     "dailyMinutesDown": {}
