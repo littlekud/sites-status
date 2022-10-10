@@ -4,16 +4,16 @@
     "url": "https://www.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.ustc.edu.cn.ico",
     "slug": "ustc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "94.72%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.11%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.12%",
     "time": 1984,
     "timeDay": 1670,
     "timeWeek": 1697,
-    "timeMonth": 1946,
+    "timeMonth": 1918,
     "timeYear": 1975,
     "dailyMinutesDown": {
       "2022-10-10": 58,
@@ -87,8 +87,7 @@
       "2022-04-07": 134,
       "2022-04-06": 16,
       "2022-04-05": 41,
-      "2022-04-04": 96,
-      "2022-04-03": 20
+      "2022-04-04": 96
     }
   },
   {
@@ -231,7 +230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.lug.ustc.edu.cn.ico",
     "slug": "lug-git-lab",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
