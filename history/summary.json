@@ -4,9 +4,9 @@
     "url": "https://www.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.ustc.edu.cn.ico",
     "slug": "ustc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "92.74%",
+    "uptimeDay": "92.72%",
     "uptimeWeek": "98.02%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.11%",
@@ -87,7 +87,7 @@
       "2022-04-07": 134,
       "2022-04-06": 16,
       "2022-04-05": 41,
-      "2022-04-04": 96
+      "2022-04-04": 81
     }
   },
   {
