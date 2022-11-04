@@ -19,8 +19,8 @@ sites:
     url: https://mirrors.ustc.edu.cn
   - name: LUG GitLab
     url: https://git.lug.ustc.edu.cn
-#   - name: LUG FTP
-#     url: http://ftp.lug.ustc.edu.cn
+  - name: LUG FTP
+    url: http://ftp.lug.ustc.edu.cn
     maxResponseTime: 60000
   - name: proxy.ustclug.org
     url: https://openwrt.proxy.ustclug.org
