@@ -12,7 +12,7 @@
     "uptimeYear": "99.12%",
     "time": 1964,
     "timeDay": 1928,
-    "timeWeek": 1632,
+    "timeWeek": 1619,
     "timeMonth": 1786,
     "timeYear": 1938,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "99.97%",
     "time": 437,
     "timeDay": 381,
-    "timeWeek": 550,
+    "timeWeek": 561,
     "timeMonth": 491,
     "timeYear": 456,
     "dailyMinutesDown": {
@@ -154,7 +154,7 @@
     "uptimeYear": "99.80%",
     "time": 2690,
     "timeDay": 3026,
-    "timeWeek": 2532,
+    "timeWeek": 2545,
     "timeMonth": 2465,
     "timeYear": 2643,
     "dailyMinutesDown": {
@@ -183,10 +183,10 @@
     "url": "https://mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.86%",
     "time": 2472,
@@ -195,6 +195,7 @@
     "timeMonth": 2567,
     "timeYear": 2431,
     "dailyMinutesDown": {
+      "2022-11-11": 1,
       "2022-11-09": 24,
       "2022-10-29": 38,
       "2022-10-16": 20,
@@ -235,7 +236,7 @@
     "uptimeYear": "99.88%",
     "time": 3180,
     "timeDay": 3846,
-    "timeWeek": 3210,
+    "timeWeek": 3236,
     "timeMonth": 3284,
     "timeYear": 3058,
     "dailyMinutesDown": {
@@ -262,10 +263,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.72%",
+    "uptimeYear": "75.39%",
     "time": 1915,
     "timeDay": 2328,
-    "timeWeek": 1737,
+    "timeWeek": 1844,
     "timeMonth": 1737,
     "timeYear": 1776,
     "dailyMinutesDown": {
@@ -293,7 +294,7 @@
     "uptimeYear": "99.98%",
     "time": 914,
     "timeDay": 765,
-    "timeWeek": 740,
+    "timeWeek": 752,
     "timeMonth": 752,
     "timeYear": 839,
     "dailyMinutesDown": {
@@ -315,7 +316,7 @@
     "uptimeYear": "99.84%",
     "time": 1324,
     "timeDay": 2096,
-    "timeWeek": 1487,
+    "timeWeek": 1557,
     "timeMonth": 1525,
     "timeYear": 1321,
     "dailyMinutesDown": {
@@ -340,7 +341,7 @@
     "uptimeYear": "100.00%",
     "time": 820,
     "timeDay": 1057,
-    "timeWeek": 830,
+    "timeWeek": 834,
     "timeMonth": 819,
     "timeYear": 820,
     "dailyMinutesDown": {}
