@@ -147,7 +147,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lug.ustc.edu.cn.ico",
     "slug": "ustclug",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -263,7 +263,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.46%",
+    "uptimeYear": "86.75%",
     "time": 1912,
     "timeDay": 1463,
     "timeWeek": 1946,
@@ -333,9 +333,9 @@
     "url": "https://icourse.club",
     "icon": "https://icons.duckduckgo.com/ip3/icourse.club.ico",
     "slug": "i-course",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -344,6 +344,8 @@
     "timeWeek": 891,
     "timeMonth": 842,
     "timeYear": 824,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-17": 0
+    }
   }
 ]
