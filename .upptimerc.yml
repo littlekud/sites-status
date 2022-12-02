@@ -17,8 +17,6 @@ sites:
     url: https://lug.ustc.edu.cn
   - name: USTC Mirrors (IPv4)
     url: https://ipv4.mirrors.ustc.edu.cn
-  - name: USTC Mirrors (IPv6)
-    url: https://ipv6.mirrors.ustc.edu.cn
   - name: USTC Mirrors (Cernet)
     url: https://cernet.mirrors.ustc.edu.cn
   - name: USTC Mirrors (Chinanet)
