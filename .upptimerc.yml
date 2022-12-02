@@ -15,8 +15,18 @@ sites:
     url: https://static.taoky.moe
   - name: USTCLUG
     url: https://lug.ustc.edu.cn
-  - name: USTC Mirrors
-    url: https://mirrors.ustc.edu.cn
+  - name: USTC Mirrors (IPv4)
+    url: https://ipv4.mirrors.ustc.edu.cn
+  - name: USTC Mirrors (IPv6)
+    url: https://ipv6.mirrors.ustc.edu.cn
+  - name: USTC Mirrors (Cernet)
+    url: https://cernet.mirrors.ustc.edu.cn
+  - name: USTC Mirrors (Chinanet)
+    url: https://chinanet.mirrors.ustc.edu.cn
+  - name: USTC Mirrors (Unicom)
+    url: https://unicom.mirrors.ustc.edu.cn
+  - name: USTC Mirrors (Cmcc)
+    url: https://cmcc.mirrors.ustc.edu.cn
   - name: LUG GitLab
     url: https://git.lug.ustc.edu.cn
   - name: LUG FTP
