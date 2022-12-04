@@ -259,19 +259,19 @@
     "url": "https://cmcc.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cmcc.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cmcc",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2728,
-    "timeDay": 2802,
-    "timeWeek": 2728,
-    "timeMonth": 2728,
-    "timeYear": 2728,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 2822,
+    "timeDay": 3001,
+    "timeWeek": 2822,
+    "timeMonth": 2822,
+    "timeYear": 2822,
     "dailyMinutesDown": {
-      "2022-12-04": 1
+      "2022-12-04": 9
     }
   },
   {
