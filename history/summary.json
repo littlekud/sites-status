@@ -6,17 +6,16 @@
     "slug": "ustc",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.12%",
     "time": 1964,
-    "timeDay": 1772,
+    "timeDay": 1739,
     "timeWeek": 1724,
     "timeMonth": 1730,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2022-12-05": 10,
       "2022-12-02": 16,
       "2022-11-30": 22,
       "2022-11-27": 15,
@@ -95,7 +94,7 @@
       "2022-04-16": 77,
       "2022-04-15": 89,
       "2022-04-12": 17,
-      "2022-04-10": 43
+      "2022-04-10": 75
     }
   },
   {
@@ -186,18 +185,20 @@
     "url": "https://ipv4.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-i-pv4",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2431,
     "timeDay": 1350,
     "timeWeek": 2431,
     "timeMonth": 2431,
     "timeYear": 2431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 1
+    }
   },
   {
     "name": "USTC Mirrors (Cernet)",
@@ -241,18 +242,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/unicom.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-unicom",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 2432,
-    "timeDay": 2562,
+    "timeDay": 2700,
     "timeWeek": 2432,
     "timeMonth": 2432,
     "timeYear": 2432,
     "dailyMinutesDown": {
-      "2022-12-05": 10,
       "2022-12-02": 15
     }
   },
@@ -261,18 +261,20 @@
     "url": "https://cmcc.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cmcc.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cmcc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2617,
     "timeDay": 2395,
     "timeWeek": 2617,
     "timeMonth": 2617,
     "timeYear": 2617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   },
   {
     "name": "LUG GitLab",
@@ -314,7 +316,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.41%",
+    "uptimeYear": "94.47%",
     "time": 1902,
     "timeDay": 665,
     "timeWeek": 1753,
