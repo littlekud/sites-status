@@ -6,9 +6,9 @@
     "slug": "ustc",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.12%",
     "time": 1963,
     "timeDay": 1741,
@@ -16,7 +16,6 @@
     "timeMonth": 1780,
     "timeYear": 1933,
     "dailyMinutesDown": {
-      "2022-12-10": 9,
       "2022-12-08": 16,
       "2022-12-02": 16,
       "2022-11-30": 22,
@@ -96,7 +95,7 @@
       "2022-04-16": 77,
       "2022-04-15": 89,
       "2022-04-12": 17,
-      "2022-04-10": 19
+      "2022-04-10": 43
     }
   },
   {
@@ -242,18 +241,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/unicom.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-unicom",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 2482,
     "timeDay": 2723,
     "timeWeek": 2470,
     "timeMonth": 2482,
     "timeYear": 2482,
     "dailyMinutesDown": {
-      "2022-12-10": 8,
       "2022-12-08": 16,
       "2022-12-02": 15
     }
@@ -263,9 +261,9 @@
     "url": "https://cmcc.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cmcc.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cmcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -274,7 +272,9 @@
     "timeWeek": 2458,
     "timeMonth": 2511,
     "timeYear": 2511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-10": 0
+    }
   },
   {
     "name": "LUG GitLab",
@@ -312,11 +312,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.lug.ustc.edu.cn.ico",
     "slug": "lug-ftp",
     "status": "up",
-    "uptime": "10.90%",
+    "uptime": "11.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.22%",
+    "uptimeYear": "95.23%",
     "time": 1907,
     "timeDay": 2094,
     "timeWeek": 1839,
