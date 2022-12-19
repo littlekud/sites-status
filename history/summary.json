@@ -187,19 +187,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-i-pv4",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2706,
     "timeDay": 2685,
     "timeWeek": 2486,
     "timeMonth": 2706,
     "timeYear": 2706,
-    "dailyMinutesDown": {
-      "2022-12-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "USTC Mirrors (Cernet)",
@@ -225,19 +223,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinanet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-chinanet",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2156,
     "timeDay": 2644,
     "timeWeek": 2272,
     "timeMonth": 2156,
     "timeYear": 2156,
-    "dailyMinutesDown": {
-      "2022-12-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "USTC Mirrors (Unicom)",
@@ -265,9 +261,9 @@
     "url": "https://cmcc.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cmcc.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cmcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -276,7 +272,9 @@
     "timeWeek": 2060,
     "timeMonth": 2354,
     "timeYear": 2354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-19": 0
+    }
   },
   {
     "name": "LUG GitLab",
@@ -314,11 +312,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.lug.ustc.edu.cn.ico",
     "slug": "lug-ftp",
     "status": "up",
-    "uptime": "27.63%",
+    "uptime": "27.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.12%",
+    "uptimeYear": "96.13%",
     "time": 1917,
     "timeDay": 2075,
     "timeWeek": 2115,
