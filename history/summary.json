@@ -85,8 +85,7 @@
       "2022-05-04": 66,
       "2022-05-03": 21,
       "2022-05-02": 23,
-      "2022-05-01": 16,
-      "2022-04-30": 34
+      "2022-05-01": 16
     }
   },
   {
@@ -312,11 +311,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmcc.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cmcc",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 2612,
     "timeDay": 1803,
     "timeWeek": 2303,
@@ -390,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.lug.ustc.edu.cn.ico",
     "slug": "lug-ftp",
     "status": "up",
-    "uptime": "81.10%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "98.12%",
+    "uptime": "81.11%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "98.58%",
     "time": 1791,
     "timeDay": 1435,
@@ -401,7 +400,7 @@
     "timeMonth": 1872,
     "timeYear": 1801,
     "dailyMinutesDown": {
-      "2023-04-29": 65,
+      "2023-04-29": 57,
       "2023-04-28": 54,
       "2023-04-27": 79,
       "2023-04-26": 51,
