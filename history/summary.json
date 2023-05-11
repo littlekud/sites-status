@@ -235,11 +235,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinanet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-chinanet",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 2773,
     "timeDay": 2328,
     "timeWeek": 2231,
@@ -381,11 +381,11 @@
     "url": "http://ftp.lug.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.lug.ustc.edu.cn.ico",
     "slug": "lug-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "27.51%",
+    "uptimeDay": "27.47%",
     "uptimeWeek": "82.01%",
-    "uptimeMonth": "93.99%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "98.23%",
     "time": 2025,
     "timeDay": 7283,
@@ -393,7 +393,7 @@
     "timeMonth": 2858,
     "timeYear": 2121,
     "dailyMinutesDown": {
-      "2023-05-11": 442,
+      "2023-05-11": 443,
       "2023-05-10": 1072,
       "2023-05-09": 300,
       "2023-05-04": 64,
@@ -422,7 +422,7 @@
       "2022-08-18": 215,
       "2022-08-17": 884,
       "2022-08-16": 623,
-      "2022-08-15": 40
+      "2022-08-15": 22
     }
   },
   {
