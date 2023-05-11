@@ -305,7 +305,7 @@
     "slug": "ustc-mirrors-cmcc",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "96.82%",
+    "uptimeDay": "96.84%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.63%",
@@ -383,13 +383,13 @@
     "url": "http://ftp.lug.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.lug.ustc.edu.cn.ico",
     "slug": "lug-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "28.98%",
-    "uptimeWeek": "80.06%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "28.94%",
+    "uptimeWeek": "80.05%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "98.28%",
-    "time": 2063,
+    "time": 2064,
     "timeDay": 8190,
     "timeWeek": 6058,
     "timeMonth": 3004,
@@ -423,7 +423,7 @@
       "2022-12-28": 45,
       "2022-08-18": 215,
       "2022-08-17": 884,
-      "2022-08-16": 335
+      "2022-08-16": 319
     }
   },
   {
