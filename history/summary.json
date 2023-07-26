@@ -62,11 +62,11 @@
     "url": "https://taoky.moe",
     "icon": "https://icons.duckduckgo.com/ip3/taoky.moe.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 504,
     "timeDay": 408,
@@ -74,7 +74,7 @@
     "timeMonth": 451,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2023-07-26": 28,
+      "2023-07-26": 20,
       "2022-09-14": 16
     }
   },
@@ -85,18 +85,16 @@
     "slug": "static-files-of-taoky-moe",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
     "timeDay": 860,
     "timeWeek": 583,
     "timeMonth": 553,
     "timeYear": 573,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "USTCLUG",
