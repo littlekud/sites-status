@@ -112,8 +112,7 @@
     "dailyMinutesDown": {
       "2023-01-16": 19,
       "2022-09-18": 88,
-      "2022-08-31": 166,
-      "2022-08-09": 20
+      "2022-08-31": 166
     }
   },
   {
@@ -208,9 +207,9 @@
     "slug": "ustc-mirrors-chinanet",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.68%",
     "time": 2675,
     "timeDay": 2117,
@@ -218,7 +217,6 @@
     "timeMonth": 2867,
     "timeYear": 2675,
     "dailyMinutesDown": {
-      "2023-08-08": 9,
       "2023-07-27": 69,
       "2023-07-26": 2,
       "2023-07-11": 27,
