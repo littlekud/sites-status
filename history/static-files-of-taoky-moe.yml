@@ -1,7 +1,7 @@
 url: https://static.taoky.moe
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2023-08-27T23:09:41.034Z
+status: down
+code: 502
+responseTime: 159
+lastUpdated: 2023-08-28T16:48:53.374Z
 startTime: 2020-11-21T16:26:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
