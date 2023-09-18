@@ -98,8 +98,7 @@
     "timeMonth": 2722,
     "timeYear": 2543,
     "dailyMinutesDown": {
-      "2023-01-16": 19,
-      "2022-09-18": 88
+      "2023-01-16": 19
     }
   },
   {
@@ -199,9 +198,9 @@
     "slug": "ustc-mirrors-chinanet",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.55%",
     "time": 2938,
     "timeDay": 3172,
@@ -209,7 +208,6 @@
     "timeMonth": 4078,
     "timeYear": 2938,
     "dailyMinutesDown": {
-      "2023-09-17": 9,
       "2023-09-16": 44,
       "2023-09-15": 36,
       "2023-09-14": 127,
@@ -447,7 +445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vlab.ustc.edu.cn.ico",
     "slug": "ustc-vlab",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.83%",
     "uptimeMonth": "97.22%",
