@@ -90,7 +90,7 @@
     "timeDay": 2748,
     "timeWeek": 2472,
     "timeMonth": 2800,
-    "timeYear": 2546,
+    "timeYear": 2544,
     "dailyMinutesDown": {
       "2023-01-16": 19
     }
@@ -263,9 +263,9 @@
     "slug": "ustc-mirrors-unicom",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2422,
     "timeDay": 1926,
@@ -273,7 +273,6 @@
     "timeMonth": 2202,
     "timeYear": 2422,
     "dailyMinutesDown": {
-      "2023-10-07": 5,
       "2023-04-22": 85,
       "2023-03-20": 24,
       "2023-01-05": 20,
@@ -361,7 +360,7 @@
     "timeDay": 3289,
     "timeWeek": 2651,
     "timeMonth": 2859,
-    "timeYear": 2991,
+    "timeYear": 2990,
     "dailyMinutesDown": {
       "2023-03-29": 18,
       "2023-03-28": 228,
@@ -491,7 +490,7 @@
     "timeDay": 854,
     "timeWeek": 861,
     "timeMonth": 842,
-    "timeYear": 968,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2023-08-26": 736,
       "2023-08-25": 256,
