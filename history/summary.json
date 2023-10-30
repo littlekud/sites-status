@@ -29,8 +29,7 @@
       "2022-11-19": 15,
       "2022-11-17": 38,
       "2022-11-03": 18,
-      "2022-10-31": 36,
-      "2022-10-30": 26
+      "2022-10-31": 36
     }
   },
   {
@@ -198,17 +197,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinanet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-chinanet",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.42%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.42%",
     "time": 3105,
     "timeDay": 2751,
     "timeWeek": 4149,
     "timeMonth": 3423,
     "timeYear": 3105,
     "dailyMinutesDown": {
+      "2023-10-30": 45,
       "2023-10-29": 1,
       "2023-10-26": 33,
       "2023-10-13": 102,
