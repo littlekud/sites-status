@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.57%",
     "time": 1822,
     "timeDay": 1463,
-    "timeWeek": 1984,
+    "timeWeek": 2031,
     "timeMonth": 1785,
     "timeYear": 1826,
     "dailyMinutesDown": {
@@ -88,10 +88,10 @@
     "url": "https://ipv4.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.72%",
     "time": 2753,
@@ -100,7 +100,7 @@
     "timeMonth": 2680,
     "timeYear": 2751,
     "dailyMinutesDown": {
-      "2023-12-13": 52,
+      "2023-12-13": 53,
       "2023-12-12": 24,
       "2023-12-10": 15,
       "2023-11-21": 21,
@@ -398,9 +398,9 @@
     "slug": "lug-ftp",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "98.62%",
     "time": 2444,
     "timeDay": 4017,
@@ -408,7 +408,7 @@
     "timeMonth": 2097,
     "timeYear": 2565,
     "dailyMinutesDown": {
-      "2023-12-13": 62,
+      "2023-12-13": 50,
       "2023-12-12": 80,
       "2023-10-29": 19,
       "2023-08-25": 41,
@@ -429,7 +429,7 @@
       "2023-04-24": 18,
       "2023-04-22": 135,
       "2023-04-21": 17,
-      "2023-04-20": 45
+      "2023-04-20": 69
     }
   },
   {
