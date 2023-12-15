@@ -397,9 +397,9 @@
     "url": "http://ftp.lug.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.lug.ustc.edu.cn.ico",
     "slug": "lug-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "96.29%",
+    "uptimeDay": "96.26%",
     "uptimeWeek": "98.17%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.62%",
@@ -409,6 +409,7 @@
     "timeMonth": 2076,
     "timeYear": 2552,
     "dailyMinutesDown": {
+      "2023-12-15": 1,
       "2023-12-14": 53,
       "2023-12-13": 50,
       "2023-12-12": 80,
@@ -430,8 +431,7 @@
       "2023-04-25": 18,
       "2023-04-24": 18,
       "2023-04-22": 135,
-      "2023-04-21": 17,
-      "2023-04-20": 15
+      "2023-04-21": 17
     }
   },
   {
