@@ -255,10 +255,10 @@
     "url": "https://unicom.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/unicom.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-unicom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2476,
@@ -267,6 +267,7 @@
     "timeMonth": 2347,
     "timeYear": 2506,
     "dailyMinutesDown": {
+      "2024-01-29": 1,
       "2023-11-11": 16,
       "2023-04-22": 85,
       "2023-03-20": 24
@@ -285,7 +286,7 @@
     "uptimeYear": "99.68%",
     "time": 2534,
     "timeDay": 1853,
-    "timeWeek": 2252,
+    "timeWeek": 2226,
     "timeMonth": 2489,
     "timeYear": 2521,
     "dailyMinutesDown": {
