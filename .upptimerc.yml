@@ -25,6 +25,8 @@ sites:
     url: https://unicom.mirrors.ustc.edu.cn
   - name: USTC Mirrors (Cmcc)
     url: https://cmcc.mirrors.ustc.edu.cn
+  - name: USTC Mirrors (mirrors3 server)
+    url: https://mirrors.ustc.edu.cn/ubuntu-old-releases/
   - name: LUG GitLab
     url: https://git.lug.ustc.edu.cn
   - name: LUG FTP
