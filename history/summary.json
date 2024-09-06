@@ -51,10 +51,10 @@
     "url": "https://static.taoky.moe",
     "icon": "https://icons.duckduckgo.com/ip3/static.taoky.moe.ico",
     "slug": "static-files-of-taoky-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 586,
@@ -62,7 +62,9 @@
     "timeWeek": 543,
     "timeMonth": 587,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 1
+    }
   },
   {
     "name": "USTCLUG",
@@ -195,7 +197,7 @@
     "timeDay": 1857,
     "timeWeek": 3234,
     "timeMonth": 2733,
-    "timeYear": 3265,
+    "timeYear": 3268,
     "dailyMinutesDown": {
       "2024-08-23": 24,
       "2024-08-20": 889,
@@ -281,7 +283,7 @@
     "timeDay": 1745,
     "timeWeek": 2078,
     "timeMonth": 2529,
-    "timeYear": 2511,
+    "timeYear": 2513,
     "dailyMinutesDown": {
       "2024-08-26": 19,
       "2024-08-20": 889,
@@ -331,11 +333,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-mirrors3-server",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.61%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.69%",
     "time": 1829,
     "timeDay": 1296,
     "timeWeek": 1627,
