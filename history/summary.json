@@ -51,19 +51,19 @@
     "url": "https://static.taoky.moe",
     "icon": "https://icons.duckduckgo.com/ip3/static.taoky.moe.ico",
     "slug": "static-files-of-taoky-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 5655,
-    "timeWeek": 2253,
-    "timeMonth": 1066,
-    "timeYear": 636,
+    "time": 624,
+    "timeDay": 4973,
+    "timeWeek": 2320,
+    "timeMonth": 1122,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-09-07": 1
+      "2024-09-07": 10
     }
   },
   {
