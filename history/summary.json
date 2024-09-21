@@ -111,7 +111,7 @@
     "timeDay": 2906,
     "timeWeek": 2605,
     "timeMonth": 2751,
-    "timeYear": 2845,
+    "timeYear": 2834,
     "dailyMinutesDown": {
       "2024-09-19": 18,
       "2024-08-20": 889,
@@ -194,7 +194,7 @@
     "timeDay": 1756,
     "timeWeek": 3046,
     "timeMonth": 2847,
-    "timeYear": 2907,
+    "timeYear": 2905,
     "dailyMinutesDown": {
       "2024-09-19": 90,
       "2024-08-23": 24,
@@ -316,11 +316,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-mirrors3-server",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 1823,
     "timeDay": 1292,
     "timeWeek": 1669,
@@ -405,10 +405,10 @@
     "url": "https://openwrt.proxy.ustclug.org",
     "icon": "https://icons.duckduckgo.com/ip3/openwrt.proxy.ustclug.org.ico",
     "slug": "proxy-ustclug-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 834,
@@ -417,6 +417,7 @@
     "timeMonth": 781,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2024-09-21": 1,
       "2024-04-17": 193
     }
   },
