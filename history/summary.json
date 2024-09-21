@@ -405,9 +405,9 @@
     "url": "https://openwrt.proxy.ustclug.org",
     "icon": "https://icons.duckduckgo.com/ip3/openwrt.proxy.ustclug.org.ico",
     "slug": "proxy-ustclug-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "91.56%",
+    "uptimeDay": "91.52%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.94%",
@@ -417,7 +417,7 @@
     "timeMonth": 901,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2024-09-21": 121,
+      "2024-09-21": 122,
       "2024-04-17": 193
     }
   },
