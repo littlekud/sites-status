@@ -25,7 +25,7 @@ sites:
     url: https://unicom.mirrors.ustc.edu.cn
   - name: USTC Mirrors (Cmcc)
     url: https://cmcc.mirrors.ustc.edu.cn
-  - name: USTC Mirrors (mirrors3 server)
+  - name: USTC Mirrors (mirrors2 server)
     url: https://mirrors.ustc.edu.cn/ubuntu-old-releases/
   - name: LUG GitLab
     url: https://git.lug.ustc.edu.cn
@@ -38,6 +38,8 @@ sites:
     url: https://vlab.ustc.edu.cn
   - name: iCourse
     url: https://icourse.club
+  - name: MirrorZ 302
+    url: https://mirrors.cernet.edu.cn/debian-security/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
