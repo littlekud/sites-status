@@ -187,9 +187,9 @@
     "uptimeYear": "99.70%",
     "time": 2786,
     "timeDay": 1372,
-    "timeWeek": 2710,
+    "timeWeek": 2805,
     "timeMonth": 2887,
-    "timeYear": 2851,
+    "timeYear": 2854,
     "dailyMinutesDown": {
       "2025-02-26": 18,
       "2025-01-18": 30,
@@ -221,12 +221,12 @@
     "uptimeDay": "98.34%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 2589,
     "timeDay": 2248,
     "timeWeek": 2767,
     "timeMonth": 2797,
-    "timeYear": 2616,
+    "timeYear": 2614,
     "dailyMinutesDown": {
       "2025-03-10": 24,
       "2025-02-21": 25,
@@ -259,7 +259,7 @@
     "timeDay": 2408,
     "timeWeek": 2656,
     "timeMonth": 2646,
-    "timeYear": 2456,
+    "timeYear": 2457,
     "dailyMinutesDown": {
       "2025-02-24": 35,
       "2025-02-20": 26,
@@ -445,17 +445,19 @@
     "url": "https://mirrors.cernet.edu.cn/debian-security/",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.cernet.edu.cn.ico",
     "slug": "mirror-z-302",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3018,
     "timeDay": 2951,
     "timeWeek": 3018,
     "timeMonth": 3018,
     "timeYear": 3018,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-10": 1
+    }
   }
 ]
