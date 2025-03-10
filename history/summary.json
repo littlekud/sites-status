@@ -445,19 +445,19 @@
     "url": "https://mirrors.cernet.edu.cn/debian-security/",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.cernet.edu.cn.ico",
     "slug": "mirror-z-302",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3018,
-    "timeDay": 2951,
-    "timeWeek": 3018,
-    "timeMonth": 3018,
-    "timeYear": 3018,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 3202,
+    "timeDay": 3353,
+    "timeWeek": 3202,
+    "timeMonth": 3202,
+    "timeYear": 3202,
     "dailyMinutesDown": {
-      "2025-03-10": 1
+      "2025-03-10": 21
     }
   }
 ]
