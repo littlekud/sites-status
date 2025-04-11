@@ -1,7 +1,7 @@
 url: https://mirrors.cernet.edu.cn/debian-security/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-11T22:39:09.399Z
+status: up
+code: 200
+responseTime: 2657
+lastUpdated: 2025-04-11T22:49:21.519Z
 startTime: 2025-03-08T06:45:41.782Z
 generator: Upptime <https://github.com/upptime/upptime>
