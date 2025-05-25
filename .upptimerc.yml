@@ -38,8 +38,8 @@ sites:
     url: https://vlab.ustc.edu.cn
   - name: iCourse
     url: https://icourse.club
-  - name: MirrorZ 302
-    url: https://mirrors.cernet.edu.cn/debian-security/
+  - name: MirrorZ 302 service
+    url: https://mirrors.cernet.edu.cn/api/scoring
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
