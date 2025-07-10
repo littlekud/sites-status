@@ -502,19 +502,19 @@
     "url": "https://mirrors.cernet.edu.cn/api/scoring",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.cernet.edu.cn.ico",
     "slug": "mirror-z-302-service",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.88%",
-    "time": 1436,
-    "timeDay": 1360,
-    "timeWeek": 1359,
-    "timeMonth": 1453,
-    "timeYear": 1436,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.85%",
+    "time": 1428,
+    "timeDay": 1283,
+    "timeWeek": 1328,
+    "timeMonth": 1440,
+    "timeYear": 1428,
     "dailyMinutesDown": {
-      "2025-07-10": 78
+      "2025-07-10": 98
     }
   }
 ]
