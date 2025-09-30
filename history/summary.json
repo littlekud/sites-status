@@ -106,7 +106,7 @@
     "uptimeYear": "98.85%",
     "time": 3292,
     "timeDay": 3026,
-    "timeWeek": 3202,
+    "timeWeek": 3089,
     "timeMonth": 3290,
     "timeYear": 3391,
     "dailyMinutesDown": {
@@ -167,9 +167,9 @@
     "url": "https://cernet.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cernet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cernet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.88%",
@@ -179,6 +179,7 @@
     "timeMonth": 3134,
     "timeYear": 3211,
     "dailyMinutesDown": {
+      "2025-09-30": 1,
       "2025-09-29": 29,
       "2025-09-24": 34,
       "2025-09-09": 223,
