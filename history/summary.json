@@ -520,10 +520,10 @@
     "url": "https://icourse.club",
     "icon": "https://icons.duckduckgo.com/ip3/icourse.club.ico",
     "slug": "i-course",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 906,
@@ -532,6 +532,7 @@
     "timeMonth": 919,
     "timeYear": 896,
     "dailyMinutesDown": {
+      "2025-10-04": 1,
       "2025-07-20": 45,
       "2025-05-26": 22
     }
