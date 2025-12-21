@@ -572,10 +572,10 @@
     "url": "https://openwrt.proxy.ustclug.org",
     "icon": "https://icons.duckduckgo.com/ip3/openwrt.proxy.ustclug.org.ico",
     "slug": "proxy-ustclug-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 805,
@@ -583,7 +583,9 @@
     "timeWeek": 827,
     "timeMonth": 728,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-21": 1
+    }
   },
   {
     "name": "USTC Vlab",
