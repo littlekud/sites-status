@@ -108,7 +108,7 @@
     "time": 3349,
     "timeDay": 3274,
     "timeWeek": 3292,
-    "timeMonth": 3461,
+    "timeMonth": 3455,
     "timeYear": 3436,
     "dailyMinutesDown": {
       "2026-01-13": 41,
@@ -293,7 +293,7 @@
     "time": 3017,
     "timeDay": 2126,
     "timeWeek": 3203,
-    "timeMonth": 3168,
+    "timeMonth": 3200,
     "timeYear": 3113,
     "dailyMinutesDown": {
       "2026-01-13": 41,
@@ -362,7 +362,7 @@
     "time": 2747,
     "timeDay": 3204,
     "timeWeek": 2712,
-    "timeMonth": 2792,
+    "timeMonth": 2776,
     "timeYear": 2791,
     "dailyMinutesDown": {
       "2026-01-14": 15,
@@ -425,10 +425,10 @@
     "url": "https://cmcc.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cmcc.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cmcc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.61%",
     "time": 2556,
@@ -437,6 +437,7 @@
     "timeMonth": 2445,
     "timeYear": 2624,
     "dailyMinutesDown": {
+      "2026-01-14": 1,
       "2026-01-08": 69,
       "2025-12-30": 39,
       "2025-12-26": 23,
