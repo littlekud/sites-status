@@ -97,13 +97,13 @@
     "url": "https://ipv4.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-i-pv4",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.10%",
-    "time": 3314,
+    "time": 3316,
     "timeDay": 4060,
     "timeWeek": 2702,
     "timeMonth": 2787,
@@ -177,7 +177,8 @@
       "2026-03-30": 59,
       "2026-04-03": 41,
       "2026-04-20": 123,
-      "2026-05-28": 241
+      "2026-05-28": 241,
+      "2026-06-06": 2
     }
   },
   {
@@ -185,13 +186,13 @@
     "url": "https://cernet.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cernet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cernet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
-    "time": 3129,
+    "time": 3128,
     "timeDay": 3093,
     "timeWeek": 2629,
     "timeMonth": 2623,
@@ -260,7 +261,8 @@
       "2026-03-29": 132,
       "2026-04-12": 60,
       "2026-04-20": 123,
-      "2026-04-29": 72
+      "2026-04-29": 72,
+      "2026-06-06": 2
     }
   },
   {
@@ -268,13 +270,13 @@
     "url": "https://chinanet.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/chinanet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-chinanet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 2965,
+    "time": 2963,
     "timeDay": 2324,
     "timeWeek": 2032,
     "timeMonth": 2527,
@@ -339,7 +341,8 @@
       "2026-04-03": 96,
       "2026-04-04": 43,
       "2026-04-20": 123,
-      "2026-04-25": 101
+      "2026-04-25": 101,
+      "2026-06-06": 1
     }
   },
   {
@@ -347,10 +350,10 @@
     "url": "https://unicom.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/unicom.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-unicom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
     "time": 2662,
@@ -412,7 +415,8 @@
       "2026-03-14": 35,
       "2026-03-19": 47,
       "2026-04-12": 60,
-      "2026-04-29": 72
+      "2026-04-29": 72,
+      "2026-06-06": 1
     }
   },
   {
@@ -420,17 +424,17 @@
     "url": "https://cmcc.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cmcc.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cmcc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
-    "time": 2524,
+    "uptimeYear": "99.49%",
+    "time": 2523,
     "timeDay": 2782,
     "timeWeek": 3415,
     "timeMonth": 2655,
-    "timeYear": 2453,
+    "timeYear": 2455,
     "dailyMinutesDown": {
       "2025-06-10": 83,
       "2025-06-26": 64,
@@ -494,7 +498,8 @@
       "2026-03-16": 64,
       "2026-03-30": 89,
       "2026-04-12": 60,
-      "2026-04-25": 101
+      "2026-04-25": 101,
+      "2026-06-06": 1
     }
   },
   {
@@ -502,13 +507,13 @@
     "url": "https://mirrors.ustc.edu.cn/ubuntu-old-releases/",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-mirrors2-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 1668,
+    "time": 1670,
     "timeDay": 1093,
     "timeWeek": 3516,
     "timeMonth": 1788,
@@ -527,7 +532,8 @@
       "2025-09-05": 174,
       "2025-09-09": 179,
       "2025-09-29": 27,
-      "2026-02-22": 29
+      "2026-02-22": 29,
+      "2026-06-06": 1
     }
   },
   {
@@ -665,10 +671,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.cernet.edu.cn.ico",
     "slug": "mirror-z-302-service",
     "status": "up",
-    "uptime": "92.42%",
+    "uptime": "92.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.21%",
-    "uptimeMonth": "7.31%",
+    "uptimeWeek": "36.14%",
+    "uptimeMonth": "8.45%",
     "uptimeYear": "92.18%",
     "time": 1383,
     "timeDay": 1292,
