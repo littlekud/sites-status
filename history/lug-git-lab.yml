@@ -1,7 +1,7 @@
 url: https://git.lug.ustc.edu.cn
-status: up
-code: 200
-responseTime: 2783
-lastUpdated: 2026-07-10T23:54:51.670Z
+status: down
+code: 502
+responseTime: 42347
+lastUpdated: 2026-07-11T14:32:26.235Z
 startTime: 2020-11-21T16:26:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
