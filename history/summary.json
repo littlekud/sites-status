@@ -13,7 +13,7 @@
     "time": 1894,
     "timeDay": 1437,
     "timeWeek": 1683,
-    "timeMonth": 1703,
+    "timeMonth": 1715,
     "timeYear": 1812,
     "dailyMinutesDown": {
       "2025-08-19": 33,
@@ -35,7 +35,7 @@
     "time": 554,
     "timeDay": 162,
     "timeWeek": 378,
-    "timeMonth": 586,
+    "timeMonth": 591,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2025-11-18": 157
@@ -55,7 +55,7 @@
     "time": 470,
     "timeDay": 243,
     "timeWeek": 411,
-    "timeMonth": 415,
+    "timeMonth": 413,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-09-30": 17,
@@ -78,7 +78,7 @@
     "time": 2538,
     "timeDay": 2343,
     "timeWeek": 1992,
-    "timeMonth": 1889,
+    "timeMonth": 1883,
     "timeYear": 2479,
     "dailyMinutesDown": {
       "2025-08-19": 66,
@@ -101,7 +101,7 @@
     "time": 3248,
     "timeDay": 2413,
     "timeWeek": 2726,
-    "timeMonth": 2952,
+    "timeMonth": 2953,
     "timeYear": 3179,
     "dailyMinutesDown": {
       "2025-07-18": 93,
@@ -182,7 +182,7 @@
     "time": 3118,
     "timeDay": 1902,
     "timeWeek": 2478,
-    "timeMonth": 3121,
+    "timeMonth": 3119,
     "timeYear": 3120,
     "dailyMinutesDown": {
       "2025-07-16": 37,
@@ -260,7 +260,7 @@
     "time": 2940,
     "timeDay": 1852,
     "timeWeek": 2848,
-    "timeMonth": 2589,
+    "timeMonth": 2602,
     "timeYear": 2845,
     "dailyMinutesDown": {
       "2025-07-16": 28,
@@ -337,7 +337,7 @@
     "time": 2626,
     "timeDay": 921,
     "timeWeek": 2780,
-    "timeMonth": 2278,
+    "timeMonth": 2277,
     "timeYear": 2548,
     "dailyMinutesDown": {
       "2025-07-16": 28,
@@ -482,7 +482,7 @@
     "time": 1648,
     "timeDay": 2998,
     "timeWeek": 3012,
-    "timeMonth": 1631,
+    "timeMonth": 1627,
     "timeYear": 1670,
     "dailyMinutesDown": {
       "2025-07-29": 183,
@@ -503,15 +503,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.lug.ustc.edu.cn.ico",
     "slug": "lug-git-lab",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.51%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.82%",
     "time": 3116,
     "timeDay": 2617,
     "timeWeek": 7825,
-    "timeMonth": 4604,
+    "timeMonth": 4637,
     "timeYear": 3121,
     "dailyMinutesDown": {
       "2025-08-08": 39,
@@ -524,7 +524,7 @@
       "2026-05-22": 247,
       "2026-06-08": 229,
       "2026-07-11": 57,
-      "2026-07-13": 1
+      "2026-07-13": 117
     }
   },
   {
@@ -541,7 +541,7 @@
     "time": 1414,
     "timeDay": 1689,
     "timeWeek": 1798,
-    "timeMonth": 1291,
+    "timeMonth": 1300,
     "timeYear": 1348,
     "dailyMinutesDown": {
       "2025-09-16": 31,
@@ -562,7 +562,7 @@
     "time": 829,
     "timeDay": 698,
     "timeWeek": 900,
-    "timeMonth": 881,
+    "timeMonth": 878,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-12-22": 824,
@@ -583,7 +583,7 @@
     "time": 1407,
     "timeDay": 891,
     "timeWeek": 1848,
-    "timeMonth": 1581,
+    "timeMonth": 1600,
     "timeYear": 1350,
     "dailyMinutesDown": {
       "2025-08-19": 66,
@@ -607,7 +607,7 @@
     "time": 1029,
     "timeDay": 192,
     "timeWeek": 288,
-    "timeMonth": 266,
+    "timeMonth": 263,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2025-07-20": 45,
@@ -636,7 +636,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.cernet.edu.cn.ico",
     "slug": "mirror-z-302-service",
     "status": "up",
-    "uptime": "93.09%",
+    "uptime": "93.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -644,7 +644,7 @@
     "time": 1375,
     "timeDay": 626,
     "timeWeek": 996,
-    "timeMonth": 1310,
+    "timeMonth": 1313,
     "timeYear": 1368,
     "dailyMinutesDown": {
       "2025-08-19": 66,
