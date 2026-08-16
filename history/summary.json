@@ -475,14 +475,14 @@
     "url": "https://git.lug.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.lug.ustc.edu.cn.ico",
     "slug": "lug-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 3152,
-    "timeDay": 4046,
+    "timeDay": 4510,
     "timeWeek": 3902,
     "timeMonth": 3599,
     "timeYear": 3136,
@@ -496,7 +496,8 @@
       "2026-05-22": 247,
       "2026-06-08": 229,
       "2026-07-11": 57,
-      "2026-07-13": 218
+      "2026-07-13": 218,
+      "2026-08-16": 1
     }
   },
   {
@@ -608,7 +609,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.cernet.edu.cn.ico",
     "slug": "mirror-z-302-service",
     "status": "up",
-    "uptime": "93.62%",
+    "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
