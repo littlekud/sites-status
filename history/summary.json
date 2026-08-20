@@ -468,17 +468,17 @@
     "url": "https://git.lug.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.lug.ustc.edu.cn.ico",
     "slug": "lug-git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.82%",
-    "time": 3148,
-    "timeDay": 2637,
-    "timeWeek": 3180,
-    "timeMonth": 3416,
-    "timeYear": 3132,
+    "time": 3147,
+    "timeDay": 3330,
+    "timeWeek": 3264,
+    "timeMonth": 3434,
+    "timeYear": 3135,
     "dailyMinutesDown": {
       "2025-10-03": 66,
       "2025-12-25": 43,
@@ -489,7 +489,7 @@
       "2026-06-08": 229,
       "2026-07-11": 57,
       "2026-07-13": 218,
-      "2026-08-20": 1
+      "2026-08-20": 13
     }
   },
   {
