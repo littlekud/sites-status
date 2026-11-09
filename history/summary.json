@@ -141,10 +141,10 @@
     "url": "https://cernet.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cernet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cernet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 2966,
@@ -182,7 +182,8 @@
       "2026-04-12": 60,
       "2026-04-20": 123,
       "2026-04-29": 72,
-      "2026-06-06": 69
+      "2026-06-06": 69,
+      "2026-11-09": 2
     }
   },
   {
@@ -403,11 +404,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openwrt.proxy.ustclug.org.ico",
     "slug": "proxy-ustclug-org",
     "status": "down",
-    "uptime": "99.60%",
+    "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.51%",
-    "uptimeMonth": "91.14%",
-    "uptimeYear": "98.87%",
+    "uptimeWeek": "57.22%",
+    "uptimeMonth": "90.16%",
+    "uptimeYear": "98.78%",
     "time": 868,
     "timeDay": 0,
     "timeWeek": 818,
@@ -416,7 +417,7 @@
     "dailyMinutesDown": {
       "2025-12-22": 824,
       "2025-12-21": 1254,
-      "2026-11-09": 252,
+      "2026-11-09": 684,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 748
