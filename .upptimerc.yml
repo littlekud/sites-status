@@ -32,14 +32,14 @@ sites:
   - name: LUG FTP
     url: http://ftp.lug.ustc.edu.cn
     maxResponseTime: 60000
-  - name: proxy.ustclug.org
-    url: https://openwrt.proxy.ustclug.org
   - name: USTC Vlab
     url: https://vlab.ustc.edu.cn
   - name: iCourse
     url: https://icourse.club
-  - name: MirrorZ 302 service
+  - name: MirrorZ 302 service (Scoring API)
     url: https://mirrors.cernet.edu.cn/api/scoring
+  - name: MirrorZ 302 service (Ubuntu)
+    url: https://mirrors.cernet.edu.cn/ubuntu/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
