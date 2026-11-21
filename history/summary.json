@@ -135,13 +135,13 @@
     "url": "https://cernet.mirrors.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cernet.mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-cernet",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.58%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "99.61%",
-    "time": 2936,
+    "time": 2935,
     "timeDay": 1918,
     "timeWeek": 2058,
     "timeMonth": 2015,
@@ -175,7 +175,8 @@
       "2026-04-29": 72,
       "2026-06-06": 69,
       "2026-11-09": 607,
-      "2026-11-13": 16
+      "2026-11-13": 16,
+      "2026-11-21": 15
     }
   },
   {
@@ -277,7 +278,7 @@
     "timeDay": 1560,
     "timeWeek": 1420,
     "timeMonth": 1487,
-    "timeYear": 2167,
+    "timeYear": 2169,
     "dailyMinutesDown": {
       "2025-11-27": 58,
       "2025-12-02": 47,
@@ -319,20 +320,21 @@
     "url": "https://mirrors.ustc.edu.cn/ubuntu-old-releases/",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.ustc.edu.cn.ico",
     "slug": "ustc-mirrors-mirrors2-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 1662,
+    "time": 1660,
     "timeDay": 1273,
     "timeWeek": 1746,
     "timeMonth": 1640,
     "timeYear": 1598,
     "dailyMinutesDown": {
       "2026-02-22": 29,
-      "2026-06-06": 144
+      "2026-06-06": 144,
+      "2026-11-21": 11
     }
   },
   {
@@ -340,11 +342,11 @@
     "url": "https://git.lug.ustc.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.lug.ustc.edu.cn.ico",
     "slug": "lug-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.79%",
     "time": 3312,
     "timeDay": 2579,
@@ -360,7 +362,8 @@
       "2026-06-08": 229,
       "2026-07-11": 57,
       "2026-07-13": 218,
-      "2026-09-22": 204
+      "2026-09-22": 204,
+      "2026-11-21": 6
     }
   },
   {
@@ -389,11 +392,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vlab.ustc.edu.cn.ico",
     "slug": "ustc-vlab",
     "status": "down",
-    "uptime": "99.60%",
+    "uptime": "99.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.41%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "99.18%",
+    "uptimeWeek": "57.30%",
+    "uptimeMonth": "90.17%",
+    "uptimeYear": "99.12%",
     "time": 1417,
     "timeDay": 0,
     "timeWeek": 2748,
@@ -405,7 +408,7 @@
       "2026-02-28": 130,
       "2026-06-10": 102,
       "2026-08-07": 50,
-      "2026-11-21": 315,
+      "2026-11-21": 629,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 795
